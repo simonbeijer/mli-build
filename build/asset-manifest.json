@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d438570.chunk.css",
+    "main.js": "/static/js/main.240b4091.chunk.js",
+    "main.js.map": "/static/js/main.240b4091.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.327b1bb9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.327b1bb9.js.map",
+    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
+    "static/js/2.654b11cc.chunk.js": "/static/js/2.654b11cc.chunk.js",
+    "static/js/2.654b11cc.chunk.js.map": "/static/js/2.654b11cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8d438570.chunk.css.map": "/static/css/main.8d438570.chunk.css.map",
+    "static/js/2.654b11cc.chunk.js.LICENSE.txt": "/static/js/2.654b11cc.chunk.js.LICENSE.txt",
+    "static/media/MLI-logo.13373ff1.png": "/static/media/MLI-logo.13373ff1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.327b1bb9.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.654b11cc.chunk.js",
+    "static/css/main.8d438570.chunk.css",
+    "static/js/main.240b4091.chunk.js"
+  ]
+}
