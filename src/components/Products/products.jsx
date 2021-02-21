@@ -1,15 +1,15 @@
-import React, { useContext } from 'react';
-import './products.scss';
+import React, { useContext } from "react";
+import "./products.scss";
 import { ProductContext } from "../Context/productContext";
 
 function Products() {
   const products = useContext(ProductContext);
 
-
   return (
     <main className="App-products container-fluid">
-      {console.log(products)}
-      <h2 className="font-weight-light text-center text-lg-left mt-4 mb-0">Products</h2>
+      <h1 style={{ paddingTop: "6rem" }}>Coming soon 🚧</h1>
+
+      {/* <h2 className="font-weight-light text-center text-lg-left mt-4 mb-0">Products</h2>
 
       <hr className="mt-2 mb-5" />
 
@@ -26,9 +26,8 @@ function Products() {
             </div>
           </div>
         )}
-      </div>
-    </main >
-
+      </div> */}
+    </main>
   );
 }
 

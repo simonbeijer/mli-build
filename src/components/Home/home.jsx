@@ -10,13 +10,16 @@ function Home() {
         <div className="text-center">
           <div className="col-8 mx-auto">
             <h1 className="homeH1">Middle Lake Industries</h1>
-            <div className="col-3 mx-auto"></div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Repudiandae optio eveniet facilis error reiciendis quas molestias
-              culpa aliquid quo tenetur, dolore, quis itaque eius ratione ea
-              iusto omnis fugiat recusandae.{" "}
-            </p>
+            <div className="col-8 mx-auto">
+              <p>
+                Welcome to middle lake industries. Since 2015 I ‘we built
+                fishing lures specifically for predator fishing. On this website
+                along with my Instagram and Facebook accounts I want to share my
+                craft, inspire and get your creativity going. I’ll also display
+                some of the lures I ‘we built and some that’s available to
+                purchase.
+              </p>
+            </div>
           </div>
         </div>
       </div>
