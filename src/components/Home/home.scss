@@ -1,22 +1,25 @@
 .App-home {
-    // background-color: #282c34;
-    // display: flex;
-    // flex-direction: column;
-    // align-items: center;
-    // justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: black;
-    .carousel {
-      padding-top: 2rem;
-    }
-    min-height: 100%;
-    h1 {
-      margin-top: 1rem;
-      font-family: 'Fredericka the Great', cursive;
-      text-align: center;
-    }
-    p {
-      margin-top: 1rem;
-      text-align: center;
-    }
+  // background-color: #282c34;
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+  // justify-content: center;
+
+  color: black;
+  .carousel {
+    padding-top: 2rem;
   }
+  min-height: 100%;
+  h1 {
+    margin-top: 1rem;
+    font-family: "Fredericka the Great", cursive;
+    text-align: center;
+  }
+  p {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  .homeH1 {
+    font-family: "Fredericka the Great", cursive;
+  }
+}
