@@ -1,9 +1,10 @@
-import React, { useContext } from "react";
+// import React, { useContext } from "react";
+import React from "react";
 import "./products.scss";
-import { ProductContext } from "../Context/productContext";
+// import { ProductContext } from "../Context/productContext";
 
 function Products() {
-  const products = useContext(ProductContext);
+  // const products = useContext(ProductContext);
 
   return (
     <main className="App-products container-fluid">
