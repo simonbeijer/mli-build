@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./header.scss";
 import { Link } from "react-router-dom";
-import logo from "../../assets/mli.png";
+import logo from "../../assets/logo@2x.png";
 
 function Home() {
   const [expanded, setExpanded] = useState(false);
