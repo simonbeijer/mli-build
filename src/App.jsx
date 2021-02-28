@@ -12,7 +12,7 @@ function App() {
   return (
     <ProductProvider>
       <div className="App">
-        <BrowserRouter basename="/">
+        <BrowserRouter basename="">
           <Header />
           <Switch>
             <Route path="/about" component={About} />
