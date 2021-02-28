@@ -19,7 +19,7 @@ function App() {
             <Route path="/products" component={Products} />
             <Route path="/contact" component={Contact} />
             <Route path="/" component={Home} />
-            <Route path="*" component={Home} />
+            <Route path="" component={Home} />
           </Switch>
           <Footer />
         </BrowserRouter>
