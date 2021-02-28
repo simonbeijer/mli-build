@@ -18,8 +18,7 @@ function App() {
             <Route path="/about" component={About} />
             <Route path="/products" component={Products} />
             <Route path="/contact" component={Contact} />
-            <Route path="/" component={Home} />
-            <Route path="" component={Home} />
+            <Route exact path="/" component={Home} />
           </Switch>
           <Footer />
         </BrowserRouter>
