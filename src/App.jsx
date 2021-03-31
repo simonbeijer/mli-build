@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Header from "./components/Header/header";
 import Footer from "./components/Footer/footer";
 import Home from "./components/Home/home";
@@ -7,8 +7,13 @@ import Products from "./components/Products/products";
 import Contact from "./components/Contact/contact";
 import ProductProvider from "./components/Context/productContext";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { initGA, GApageView } from "./index";
 
 function App() {
+  useEffect(() => {
+    initGA();
+    GApageView("app");
+  }, []);
   return (
     <ProductProvider>
       <div className="App">
