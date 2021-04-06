@@ -12,11 +12,11 @@ function Home() {
             <h1 className="homeH1">Middle Lake Industries</h1>
             <div className="col-8 mx-auto">
               <p>
-                Welcome to middle lake industries. Since 2015 I ‘we built
-                fishing lures specifically for predator fishing. On this website
-                along with my Instagram and Facebook accounts I want to share my
+                Welcome to middle lake industries. Since 2015 I‘ve built fishing
+                lures specifically for predator fishing. On this website along
+                with my Instagram and Facebook accounts I want to share my
                 craft, inspire and get your creativity going. I’ll also display
-                some of the lures I ‘we built and some that’s available to
+                some of the lures I‘ve built and some that’s available to
                 purchase.
               </p>
             </div>
